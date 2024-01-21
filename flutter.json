@@ -1,0 +1,98 @@
+{
+"home_screen": {
+"header": {3 items},
+"carousel_slider_header": [
+{
+"id": 1,
+"img": "https://hips.hearstapps.com/hmg-prod/images/champagne-beach-espiritu-santo-island-vanuatu-royalty-free-image-1655672510.jpg?crop=1.00xw:0.755xh;0,0.173xh&resize=1200:*",
+"title": "Bail Beds Enjoy a bail bed "
+},
+{
+"id": 2,
+"img": "https://t4.ftcdn.net/jpg/00/43/90/37/360_F_43903732_X1Z2gzy497aisgME62crmU00Sf8smP59.jpg",
+"title": "Bail Beds Enjoy a bail bed"
+},
+{
+"id": 3,
+"img": "https://www.surfertoday.com/images/stories/beach-sunset.jpg",
+"title": "Bail Beds Enjoy a bail bed"
+}
+],
+"services": [
+{
+"name": "Restaurants",
+"items": [
+{
+"id": 4,
+"image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+"description": "Kitchen & Co"
+},
+{
+"id": 5,
+"image": "https://images.adsttc.com/media/images/5e4c/1025/6ee6/7e0b/9d00/0877/large_jpg/feature_-_Main_hall_1.jpg?1582043123",
+"description": "Kitchen & "
+},
+{
+"id": 6,
+"image": "https://assets.bonappetit.com/photos/610aa6ddc50e2f9f7c42f7f8/master/pass/Savage-2019-top-50-busy-restaurant.jpg",
+"description": "okinawa "
+}
+]
+},
+{
+"name": "leisure",
+"items": [
+{
+"id": 7,
+"image": "https://images.ctfassets.net/ob1psfsvxnrx/2tlup0ywAld203gwGrc4AW/b142e7be282908689f3c4cd350532d17/wm_outpool_01_2021_XL.jpg",
+"description": "Shows"
+},
+{
+"id": 8,
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp6aOFv9iIGHQ1wnvi0pJiBiSjXeb31kYxoQ&usqp=CAU",
+"description": "Tours"
+},
+{
+"id": 9,
+"image": "https://d2zvqky3pkh4r9.cloudfront.net/microsites/mtannan.png",
+"description": "Mini Club"
+}
+]
+},
+{
+"name": "Make Your Order",
+"items": [
+{
+"id": 10,
+"image": "https://www.nevistas.com/ul/4/2023/10/09/25.jpg",
+"description": "in Room Dining"
+},
+{
+"id": 11,
+"image": "https://www.smscountry.com/blog/wp-content/uploads/2023/02/hotel-blog-01.jpg",
+"description": "Pool Bar"
+},
+{
+"id": 12,
+"image": "https://media.istockphoto.com/id/1332728402/video/bellboy-carrying-luggage-in-hotel.jpg?s=640x640&k=20&c=YhX-aZwgw89twTJqd1Mz44IlBPkobLhZcOCKbc9jodU=",
+"description": "Cocktail Bar"
+},
+{
+"id": 13,
+"image": "https://media.istockphoto.com/id/1132071639/photo/waiter-bringing-coffee-to-guest.jpg?s=612x612&w=0&k=20&c=rp33MeW9D0M5MWmOWuT2jKK_SEG7uX4LUPFaYcqnnLo=",
+"description": "Mini Bar"
+},
+{
+"id": 14,
+"image": "https://hotelchantelle.com/wp-content/uploads/2023/07/can-a-hotel-ask-a-guest-to-leave.jpg",
+"description": "Amenities"
+}
+]
+},
+{
+"name": "Hotel Services",
+"items": [5 items]
+}
+]
+}
+}
