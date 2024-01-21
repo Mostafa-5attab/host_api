@@ -1,6 +1,10 @@
 {
 "home_screen": {
-"header": {3 items},
+"header": {
+"id": 44,
+"img": "https://cdn-icons-png.flaticon.com/256/745/745451.png",
+"title": "Microsystem"
+},
 "carousel_slider_header": [
 {
 "id": 1,
@@ -91,7 +95,33 @@
 },
 {
 "name": "Hotel Services",
-"items": [5 items]
+"items": [
+{
+"id": 15,
+"image": "https://img.freepik.com/free-photo/hotel-receptionist-work_23-2149661559.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais",
+"description": "Laundry Service"
+},
+{
+"id": 16,
+"image": "https://img.freepik.com/premium-photo/young-waitress-uniform-holding-tray-with-breakfast-hotel-room_42667-3290.jpg",
+"description": "Housekeeping"
+},
+{
+"id": 17,
+"image": "https://prenohq.com/wp-content/uploads/2022/09/Your-paragraph-text-3.png",
+"description": "Laundry Service"
+},
+{
+"id": 18,
+"image": "https://img.freepik.com/premium-photo/young-elegant-bellboy-suit-pushing-cart-with-many-suitcases_274679-42013.jpg",
+"description": "Lssues"
+},
+{
+"id": 19,
+"image": "https://img.freepik.com/free-photo/full-shot-man-carrying-baggage_23-2149963942.jpg?size=626&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais",
+"description": "Amenities"
+}
+]
 }
 ]
 }
